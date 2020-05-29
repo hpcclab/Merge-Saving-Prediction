@@ -6,4 +6,11 @@ Contact: wushangruide713@gmail.com
 
 Usage:
 1. Clone this repo into your computer  
-    git clone https://github.com/DengPingFan/DAVSOD.git
+    git clone https://github.com/hpcclab/Merge-Saving-Prediction.git
+
+2. Follow the official instructions to build [scikit-learn](https://scikit-learn.org/stable/install.html).  
+The code has been tested successfully on Ubuntu 16.04 with scikit-learn 0.19.2.
+
+3. GBDT.py [--file_path] [--table_name]  
+    --file_path         File input path, test data save in xls/xlsx format  
+    --table_name        The name of the table
