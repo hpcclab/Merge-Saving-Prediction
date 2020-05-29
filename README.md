@@ -18,5 +18,6 @@ The code has been tested successfully on Ubuntu 16.04 with scikit-learn 0.19.2.
 *Noticed: The data format needs to be consistent with that shown in the sample.xlsx
   
 ### Quick Start:  
- We provide a sample as an example, run the script as below,
-        python GBDT.py sample.xlsx sample
+ We provide a sample as an example, run the script as below,  
+   
+ python GBDT.py sample.xlsx sample
