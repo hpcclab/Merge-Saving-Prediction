@@ -4,7 +4,7 @@ The work was done by Shangrui Wu and Chavit Denninnart and the result is going t
 
 Contact: wushangruide713@gmail.com
 
-Usage:
+### Usage:
 1. Clone this repo into your computer  
     git clone https://github.com/hpcclab/Merge-Saving-Prediction.git
 
@@ -16,3 +16,6 @@ The code has been tested successfully on Ubuntu 16.04 with scikit-learn 0.19.2.
     --table_name:        The name of the table
   
 *Noticed: The data format needs to be consistent with that shown in the sample.xlsx
+  
+Example: We provide a sample file as an example,  
+        python GBDT.py sample.xlsx sample
